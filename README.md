@@ -5,10 +5,10 @@
 * A CI (CONTINUOUS INTEGRATION) SRCIPT TO DEMONSTRATE CI TECHNIQUE USING GITHUB
 ACTION 
 *...
-##Screen shots 
-###TDD, DDT test script with JUnit
+## Screen shots 
+### TDD, DDT test script with JUnit
 ![TDD, DDT test script](https://github.com/khoalhdeveloper/mathutil/blob/main/screenshots/Junit%20with%20TDD%20DDT.png)
 ### Maven builder to build .jar file
 ![maven build](https://github.com/khoalhdeveloper/mathutil/blob/main/screenshots/maven%20buider.png)
 ### CONNECT ME VIA: lekhoa5858089@gmail.com
-### $#165khoalhdeveloper
+### @165khoalhdeveloper
