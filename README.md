@@ -1,3 +1,4 @@
+[![Math Utility Project (CI included) | © 2025 by khoalhdeveloper](https://github.com/khoalhdeveloper/mathutil/actions/workflows/ci-runner.yml/badge.svg)](https://github.com/khoalhdeveloper/mathutil/actions/workflows/ci-runner.yml)
 # WELCOME TO MATH UTILITY REPOSITORY
 ## YOU WILL FIND IN THIS REPO THE FOLLOWING STUFF:
 * A MAVEN JAVA PROJECT TO OFFER THE MATH METHOD LIKE: ABS(ABSOLUTE), FACTORIAL, SQRT (SQUARE ROOT), AS THE SAME FUNCTIONALITY WITH MATH CLASS IN JDK
